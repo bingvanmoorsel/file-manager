@@ -9,7 +9,7 @@
     }
   ],
   "require": {
-    "swisnl/victory-core": "*"
+    "swisnl/victory-core": "dev-develop"
   },
   "require-dev": {
     "phpunit/phpunit": "~4.6"
