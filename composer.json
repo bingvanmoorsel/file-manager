@@ -1,5 +1,5 @@
 {
-  "name": "victory-cms/file-manager",
+  "name": "bingvanmoorsel/file-manager",
   "type": "victory-package",
   "description": "Victory CMS core functionality",
   "authors": [
@@ -16,7 +16,7 @@
   },
   "autoload": {
     "psr-4": {
-      "victory-cms\\file-manager\\": "src/"
+      "bingvanmoorsel\\file-manager\\": "src/"
     }
   }
 }
