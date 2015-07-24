@@ -1,0 +1,22 @@
+{
+  "name": "victory-cms/file-manager",
+  "type": "victory-package",
+  "description": "Victory CMS core functionality",
+  "authors": [
+    {
+      "name": "Bing van Moorsel",
+      "email": "bvanmoorsel@swis.nl"
+    }
+  ],
+  "require": {
+    "swisnl/victory-core": "*"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "~4.6"
+  },
+  "autoload": {
+    "psr-4": {
+      "victory-cms\\file-manager\\": "src/"
+    }
+  }
+}
